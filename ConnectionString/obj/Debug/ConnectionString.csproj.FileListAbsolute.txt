@@ -10,3 +10,8 @@ D:\NIDEC MES\updateCostEquipments\updateCostEquipments\ConnectionString\bin\Debu
 D:\NIDEC MES\updateCostEquipments\updateCostEquipments\ConnectionString\obj\Debug\ConnectionString.dll
 D:\NIDEC MES\updateCostEquipments\updateCostEquipments\ConnectionString\obj\Debug\ConnectionString.pdb
 D:\NIDEC MES\updateCostEquipments\updateCostEquipments\ConnectionString\obj\Debug\ConnectionString.csprojResolveAssemblyReference.cache
+D:\NIDEC MES\LearningProject\ConnectionString\bin\Debug\ConnectionString.dll
+D:\NIDEC MES\LearningProject\ConnectionString\bin\Debug\ConnectionString.pdb
+D:\NIDEC MES\LearningProject\ConnectionString\obj\Debug\ConnectionString.csprojResolveAssemblyReference.cache
+D:\NIDEC MES\LearningProject\ConnectionString\obj\Debug\ConnectionString.dll
+D:\NIDEC MES\LearningProject\ConnectionString\obj\Debug\ConnectionString.pdb

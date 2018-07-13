@@ -10,3 +10,15 @@ D:\NIDEC MES\updateCostEquipments\updateCostEquipments\UpdateCost\bin\Debug\Conn
 D:\NIDEC MES\updateCostEquipments\updateCostEquipments\UpdateCost\bin\Debug\Npgsql.dll
 D:\NIDEC MES\updateCostEquipments\updateCostEquipments\UpdateCost\bin\Debug\ConnectionString.pdb
 D:\NIDEC MES\updateCostEquipments\updateCostEquipments\UpdateCost\obj\Debug\UpdateCost.MainForm.resources
+D:\NIDEC MES\LearningProject\UpdateCost\bin\Debug\UpdateCost.exe.config
+D:\NIDEC MES\LearningProject\UpdateCost\bin\Debug\UpdateCost.exe
+D:\NIDEC MES\LearningProject\UpdateCost\bin\Debug\UpdateCost.pdb
+D:\NIDEC MES\LearningProject\UpdateCost\bin\Debug\ConnectionString.dll
+D:\NIDEC MES\LearningProject\UpdateCost\bin\Debug\Npgsql.dll
+D:\NIDEC MES\LearningProject\UpdateCost\bin\Debug\ConnectionString.pdb
+D:\NIDEC MES\LearningProject\UpdateCost\obj\Debug\UpdateCost.csprojResolveAssemblyReference.cache
+D:\NIDEC MES\LearningProject\UpdateCost\obj\Debug\UpdateCost.MainForm.resources
+D:\NIDEC MES\LearningProject\UpdateCost\obj\Debug\UpdateCost.Properties.Resources.resources
+D:\NIDEC MES\LearningProject\UpdateCost\obj\Debug\UpdateCost.csproj.GenerateResource.Cache
+D:\NIDEC MES\LearningProject\UpdateCost\obj\Debug\UpdateCost.exe
+D:\NIDEC MES\LearningProject\UpdateCost\obj\Debug\UpdateCost.pdb
