@@ -18,5 +18,6 @@ namespace UpdateCost
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new UpdateCost.MainForm());
         }
+
     }
 }
