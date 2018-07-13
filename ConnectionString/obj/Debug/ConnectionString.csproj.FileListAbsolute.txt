@@ -1,0 +1,12 @@
+D:\NIDEC MES\updateCostEquipments\WindowsFormsApplication1\ConnectionString\bin\Debug\ConnectionString.dll
+D:\NIDEC MES\updateCostEquipments\WindowsFormsApplication1\ConnectionString\bin\Debug\ConnectionString.pdb
+D:\NIDEC MES\updateCostEquipments\WindowsFormsApplication1\ConnectionString\bin\Debug\npgsql.dll
+D:\NIDEC MES\updateCostEquipments\WindowsFormsApplication1\ConnectionString\obj\Debug\ConnectionString.dll
+D:\NIDEC MES\updateCostEquipments\WindowsFormsApplication1\ConnectionString\obj\Debug\ConnectionString.pdb
+D:\NIDEC MES\updateCostEquipments\WindowsFormsApplication1\ConnectionString\obj\Debug\ConnectionString.csprojResolveAssemblyReference.cache
+D:\NIDEC MES\updateCostEquipments\updateCostEquipments\ConnectionString\bin\Debug\ConnectionString.dll
+D:\NIDEC MES\updateCostEquipments\updateCostEquipments\ConnectionString\bin\Debug\ConnectionString.pdb
+D:\NIDEC MES\updateCostEquipments\updateCostEquipments\ConnectionString\bin\Debug\npgsql.dll
+D:\NIDEC MES\updateCostEquipments\updateCostEquipments\ConnectionString\obj\Debug\ConnectionString.dll
+D:\NIDEC MES\updateCostEquipments\updateCostEquipments\ConnectionString\obj\Debug\ConnectionString.pdb
+D:\NIDEC MES\updateCostEquipments\updateCostEquipments\ConnectionString\obj\Debug\ConnectionString.csprojResolveAssemblyReference.cache
