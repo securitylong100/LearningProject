@@ -1,0 +1,12 @@
+F:\Youtube Channel\Dotnet Mob\asp.net tutorial\gridview crud\project\CrudInGridView\CrudInGridView\bin\CrudInGridView.dll.config
+F:\Youtube Channel\Dotnet Mob\asp.net tutorial\gridview crud\project\CrudInGridView\CrudInGridView\bin\CrudInGridView.dll
+F:\Youtube Channel\Dotnet Mob\asp.net tutorial\gridview crud\project\CrudInGridView\CrudInGridView\bin\CrudInGridView.pdb
+F:\Youtube Channel\Dotnet Mob\asp.net tutorial\gridview crud\project\CrudInGridView\CrudInGridView\obj\Debug\CrudInGridView.csprojResolveAssemblyReference.cache
+F:\Youtube Channel\Dotnet Mob\asp.net tutorial\gridview crud\project\CrudInGridView\CrudInGridView\obj\Debug\CrudInGridView.dll
+F:\Youtube Channel\Dotnet Mob\asp.net tutorial\gridview crud\project\CrudInGridView\CrudInGridView\obj\Debug\CrudInGridView.pdb
+C:\Users\84097\Downloads\CrudInGridView\CrudInGridView\bin\CrudInGridView.dll.config
+C:\Users\84097\Downloads\CrudInGridView\CrudInGridView\bin\CrudInGridView.dll
+C:\Users\84097\Downloads\CrudInGridView\CrudInGridView\bin\CrudInGridView.pdb
+C:\Users\84097\Downloads\CrudInGridView\CrudInGridView\obj\Debug\CrudInGridView.csproj.CoreCompileInputs.cache
+C:\Users\84097\Downloads\CrudInGridView\CrudInGridView\obj\Debug\CrudInGridView.dll
+C:\Users\84097\Downloads\CrudInGridView\CrudInGridView\obj\Debug\CrudInGridView.pdb
